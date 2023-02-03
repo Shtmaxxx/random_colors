@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:random_colors/pages/cubit/main_page_cubit.dart';
-import 'package:random_colors/pages/main_page.dart';
+import 'package:random_colors/pages/main_page/cubit/main_page_cubit.dart';
+import 'package:random_colors/pages/main_page/main_page.dart';
 
 /// Application widget
 class MyApp extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:random_colors/pages/cubit/main_page_cubit.dart';
-import 'package:random_colors/pages/widgets/app_checkbox.dart';
+import 'package:random_colors/pages/main_page/cubit/main_page_cubit.dart';
+import 'package:random_colors/pages/main_page/widgets/app_checkbox.dart';
 
 /// Main Page widget
 class MainPage extends StatelessWidget {
